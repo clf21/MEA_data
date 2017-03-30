@@ -1,3 +1,5 @@
+## Basespace: frank.christopher@epa.gov ; Ashg2014
+
 #!/bin/bash
 
 if [ -z "$1" ]; then
